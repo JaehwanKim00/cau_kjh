@@ -1,6 +1,6 @@
 # repository for ai4dl class
 
-##Author : Jaehwan Kin
+## Author : Jaehwan Kim
 
 ## CAU Applied Statistics
 
